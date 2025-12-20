@@ -92,7 +92,7 @@ window {
 
 }
 #entry:selected {
-    box-shadow: 1px 1px 5px rgba(255,255,255, .03);
+    box-shadow: 1px 1px 5px rgba(255,255,255, .25);
     border: none;
     border-radius: 20px;
     background-color:transparent;
